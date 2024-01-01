@@ -11,7 +11,7 @@ print(tabela["alface"])
 tabela["batata"] = "2.59"
 print(tabela)
 
-#Modificar com mais de um valor do elemento:
+#Modificar com mais de um valor de elementos:
 tabela["alface"] [1]= "Quantidade 5"
 print(tabela)
 
